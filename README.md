@@ -1,4 +1,4 @@
-# chrome.sockets.tcp Plugin
+# chrome.sockets.udp Plugin
 
 This plugin provides UDP sockets for Android and iOS.
 
